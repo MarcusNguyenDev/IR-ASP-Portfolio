@@ -1,0 +1,75 @@
+﻿@model IEnumerable<ItemsRental_FE.ViewModel.InventoryViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", "", htmlAttributes: new { @class = "glyphicon glyphicon-file" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Assetnumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Brandname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ActiveRetired)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CheckedOut)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comment)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Assetnumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brandname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ActiveRetired)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CheckedOut)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comment)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ToolId }, new { @class = "glyphicon glyphicon-pencil" }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ToolId }, new { @class = "glyphicon glyphicon-list-alt" }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ToolId }, new { @class = "glyphicon glyphicon-trash" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@section scripts
+{
+    <script>
+        $(function () {
+            var successMessage = '@TempData["SuccessMessage"]'
+            if (successMessage != '')
+                alertify.success(successMessage);
+        });
+    </script>
+}

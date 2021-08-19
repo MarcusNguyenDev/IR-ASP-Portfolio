@@ -1,0 +1,291 @@
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\ApplicationInsights.config
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\ItemsRental_FE.dll.config
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\ItemsRental_FE.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\ItemsRental_FE.pdb
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Antlr3.Runtime.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.AI.Web.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.Web.Infrastructure.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Newtonsoft.Json.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Helpers.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Http.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Mvc.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Optimization.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Razor.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.WebPages.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\WebGrease.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Newtonsoft.Json.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Helpers.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Http.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Mvc.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Optimization.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.Razor.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.WebPages.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Antlr3.Runtime.pdb
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\bin\Microsoft.AI.Web.xml
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csproj.CoreCompileInputs.cache
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.dll
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.pdb
+E:\Tafe\C#\ItemsRental_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csprojResolveAssemblyReference.cache
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ApplicationInsights.config
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.dll.config
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.pdb
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Antlr3.Runtime.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Web.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.Web.Infrastructure.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Newtonsoft.Json.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Helpers.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Mvc.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Optimization.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Razor.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\WebGrease.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Newtonsoft.Json.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Helpers.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Mvc.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Optimization.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Razor.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Antlr3.Runtime.pdb
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Web.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csproj.CoreCompileInputs.cache
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.pdb
+E:\Tafe\C#\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ApplicationInsights.config
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.dll.config
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.pdb
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\WebGrease.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.dll
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.pdb
+C:\Users\student\Desktop\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csprojResolveAssemblyReference.cache
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ApplicationInsights.config
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.dll.config
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.pdb
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Antlr3.Runtime.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Web.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.Web.Infrastructure.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Newtonsoft.Json.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Helpers.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Mvc.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Optimization.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Razor.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\WebGrease.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Newtonsoft.Json.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Helpers.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Mvc.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Optimization.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.Razor.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Antlr3.Runtime.pdb
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Web.xml
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csprojAssemblyReference.cache
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csproj.CoreCompileInputs.cache
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csproj.CopyComplete
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.dll
+E:\ItemRentalAssessment\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.pdb
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\ApplicationInsights.config
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.dll.config
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.pdb
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Antlr3.Runtime.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Web.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Newtonsoft.Json.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Helpers.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Http.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Mvc.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Optimization.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Razor.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\WebGrease.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Newtonsoft.Json.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Helpers.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Http.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Mvc.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Optimization.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.Razor.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Antlr3.Runtime.pdb
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Web.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csprojAssemblyReference.cache
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csproj.CopyComplete
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.pdb
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\ApplicationInsights.config
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.dll.config
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\ItemsRental_FE.pdb
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Antlr3.Runtime.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Web.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Newtonsoft.Json.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Helpers.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Http.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Mvc.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Optimization.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Razor.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\WebGrease.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Newtonsoft.Json.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Net.Http.Formatting.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Helpers.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Http.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Http.WebHost.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Mvc.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Optimization.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.Razor.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\System.Web.WebPages.Razor.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Antlr3.Runtime.pdb
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\bin\Microsoft.AI.Web.xml
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csprojAssemblyReference.cache
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.csproj.CopyComplete
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.dll
+C:\Users\Long\OneDrive\Desktop\Inventory Control Project\IR_FE\ItemsRental_FE\obj\Debug\ItemsRental_FE.pdb

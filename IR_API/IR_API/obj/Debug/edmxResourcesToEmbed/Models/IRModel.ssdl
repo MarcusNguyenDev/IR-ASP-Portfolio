@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ItemRentalModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Brand">
+    <Key>
+      <PropertyRef Name="BrandId" />
+    </Key>
+    <Property Name="BrandId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Brand" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Inventory">
+    <Key>
+      <PropertyRef Name="ToolId" />
+    </Key>
+    <Property Name="ToolId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Assetnumber" Type="int" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="50" />
+    <Property Name="BrandId" Type="int" Nullable="false" />
+    <Property Name="ActiveRetired" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CheckedOut" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Comment" Type="varchar" MaxLength="50" />
+    <Property Name="image" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="Rental">
+    <Key>
+      <PropertyRef Name="RentalId" />
+    </Key>
+    <Property Name="RentalId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerId" Type="int" Nullable="false" />
+    <Property Name="WorkspaceId" Type="int" Nullable="false" />
+    <Property Name="DateRented" Type="date" Nullable="false" />
+    <Property Name="DateReturned" Type="date" />
+  </EntityType>
+  <EntityType Name="RentalList">
+    <Key>
+      <PropertyRef Name="RentalListId" />
+    </Key>
+    <Property Name="RentalListId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RentalId" Type="int" Nullable="false" />
+    <Property Name="ToolId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Workspace">
+    <Key>
+      <PropertyRef Name="WorkspaceId" />
+    </Key>
+    <Property Name="WorkspaceId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Workspace" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ItemRental.dbo.ItemRentalCountReport' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="ItemRentalCountReport">
+    <Key>
+      <PropertyRef Name="ToolId" />
+    </Key>
+    <Property Name="ToolId" Type="int" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="50" />
+    <Property Name="RentalCount" Type="int" />
+  </EntityType>
+  <EntityContainer Name="ItemRentalModelStoreContainer">
+    <EntitySet Name="Brand" EntityType="Self.Brand" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Inventory" EntityType="Self.Inventory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rental" EntityType="Self.Rental" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RentalList" EntityType="Self.RentalList" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Workspace" EntityType="Self.Workspace" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ItemRentalCountReport" EntityType="Self.ItemRentalCountReport" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ItemRentalCountReport].[ToolId] AS [ToolId], 
+    [ItemRentalCountReport].[Description] AS [Description], 
+    [ItemRentalCountReport].[RentalCount] AS [RentalCount]
+    FROM [dbo].[ItemRentalCountReport] AS [ItemRentalCountReport]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

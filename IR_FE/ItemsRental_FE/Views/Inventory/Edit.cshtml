@@ -1,0 +1,142 @@
+﻿@model ItemsRental_FE.ViewModel.InventoryViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Inventory</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class=" form-group">
+            <img id="imageSource" src="~/UploadedFiles/@Model.image" style="height:280px;width:200px" />
+        </div>
+
+        @Html.HiddenFor(model => model.ToolId)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Assetnumber, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Assetnumber, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Assetnumber, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Brandname, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.BrandId, Model.Brands, "- Please select a brand", new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Brandname, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ActiveRetired, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.ActiveRetired, new List<SelectListItem>()
+    {
+        new SelectListItem(){Text="Active",Value = "Active"},
+        new SelectListItem(){Text="Retired",Value = "Retired"}
+    }, "Select Active or Retired", new { @class = "form-control" })
+
+                @Html.ValidationMessageFor(model => model.ActiveRetired, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CheckedOut, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.CheckedOut, new List<SelectListItem>()
+    {
+        new SelectListItem(){Text="YES",Value = "YES"},
+         new SelectListItem(){Text="NO",Value = "NO"}
+    }, "Select Active or Retired", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.CheckedOut, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Comment, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Comment, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Comment, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.image, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.image, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.image, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<h2>
+    Drag & Drop Movie Image Here
+</h2>
+<div id="dropArea">
+    <h4>Uploaded file: </h4>
+</div>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script src="~/Scripts/jquery.filedrop.js"></script>
+    <script type="text/javascript">
+    $(function(){
+        $('#dropArea').filedrop({
+            url: '@Url.Action("UploadFiles")',
+            allowedfiletypes: ['image/jpeg', 'image/png', 'image/gif'],
+            allowedfileextensions: ['.jpg', '.jpeg', '.png', '.gif',
+                '.JPG', '.JPEG', '.PNG', '.GIF'],
+            paramname: 'files',
+            maxfiles: 1,
+            maxfilesize: 5, //in MB
+            dragOver: function () {
+                $('#dropArea').addClass('active-drop');
+            },
+            dragLeave: function () {
+                $('#dropArea').removeClass('active-drop');
+            },
+            drop: function () {
+                $('#dropArea').removeClass('active-drop');
+            },
+            afterAll: function () {
+                $('#dropArea').html('File uploaded successfully');
+            },
+            uploadFinished: function (i, file, response, time)
+            {
+                $('#image').val(file.name);
+            }
+        })
+    })
+    </script>
+}

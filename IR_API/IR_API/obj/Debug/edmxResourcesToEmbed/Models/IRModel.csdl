@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ItemRentalModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Brand">
+    <Key>
+      <PropertyRef Name="BrandId" />
+    </Key>
+    <Property Name="BrandId" Type="Int32" Nullable="false" />
+    <Property Name="Brand1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="Int32" Nullable="false" />
+    <Property Name="CustomerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Inventory">
+    <Key>
+      <PropertyRef Name="ToolId" />
+    </Key>
+    <Property Name="ToolId" Type="Int32" Nullable="false" />
+    <Property Name="Assetnumber" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="BrandId" Type="Int32" Nullable="false" />
+    <Property Name="ActiveRetired" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CheckedOut" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Comment" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="image" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Rental">
+    <Key>
+      <PropertyRef Name="RentalId" />
+    </Key>
+    <Property Name="RentalId" Type="Int32" Nullable="false" />
+    <Property Name="CustomerId" Type="Int32" Nullable="false" />
+    <Property Name="WorkspaceId" Type="Int32" Nullable="false" />
+    <Property Name="DateRented" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="DateReturned" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="RentalList">
+    <Key>
+      <PropertyRef Name="RentalListId" />
+    </Key>
+    <Property Name="RentalListId" Type="Int32" Nullable="false" />
+    <Property Name="RentalId" Type="Int32" Nullable="false" />
+    <Property Name="ToolId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Workspace">
+    <Key>
+      <PropertyRef Name="WorkspaceId" />
+    </Key>
+    <Property Name="WorkspaceId" Type="Int32" Nullable="false" />
+    <Property Name="Workspace1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ItemRentalEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Brands" EntityType="Self.Brand" />
+    <EntitySet Name="Customers" EntityType="Self.Customer" />
+    <EntitySet Name="Inventories" EntityType="Self.Inventory" />
+    <EntitySet Name="Rentals" EntityType="Self.Rental" />
+    <EntitySet Name="RentalLists" EntityType="Self.RentalList" />
+    <EntitySet Name="Workspaces" EntityType="Self.Workspace" />
+    <EntitySet Name="ItemRentalCountReports" EntityType="ItemRentalModel.ItemRentalCountReport" />
+  </EntityContainer>
+  <EntityType Name="ItemRentalCountReport">
+    <Key>
+      <PropertyRef Name="ToolId" />
+    </Key>
+    <Property Name="ToolId" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="RentalCount" Type="Int32" />
+  </EntityType>
+</Schema>

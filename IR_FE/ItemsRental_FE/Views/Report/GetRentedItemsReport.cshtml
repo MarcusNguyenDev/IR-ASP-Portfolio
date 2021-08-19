@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ItemsRental_FE.ViewModel.RentedItemsViewModel>
+
+@{
+    ViewBag.Title = "GetRentedItemsReport";
+}
+
+<h2>GetRentedItemsReport</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tool)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateRented)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateReturned)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tool)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateRented)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateReturned)
+            </td>
+
+        </tr>
+    }
+
+</table>
+
+@using (Html.BeginForm("ExportRentedItemData", "Report", FormMethod.Get))
+{
+    <button name="button" style="width:128px;height:48px;font-weight:bold" title="Export">
+        Export Data
+    </button>
+
+}

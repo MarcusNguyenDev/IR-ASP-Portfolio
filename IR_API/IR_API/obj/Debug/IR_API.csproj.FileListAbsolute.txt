@@ -1,0 +1,157 @@
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\ApplicationInsights.config
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\IR_API.dll.config
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\IR_API.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\IR_API.pdb
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Antlr3.Runtime.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\EntityFramework.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\EntityFramework.SqlServer.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.DependencyCollector.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.Web.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.WindowsServer.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.ApplicationInsights.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.Web.Infrastructure.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Newtonsoft.Json.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Net.Http.Formatting.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Helpers.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Http.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Http.WebHost.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Mvc.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Optimization.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Razor.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.Deployment.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.Razor.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\WebGrease.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\EntityFramework.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\EntityFramework.SqlServer.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Newtonsoft.Json.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Net.Http.Formatting.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Helpers.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Http.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Http.WebHost.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Mvc.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Optimization.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Razor.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.Deployment.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.Razor.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Antlr3.Runtime.pdb
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.ApplicationInsights.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.DependencyCollector.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.WindowsServer.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.Web.xml
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\obj\Debug\IR_API.csproj.CoreCompileInputs.cache
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\obj\Debug\IR_API.dll
+E:\Tafe\C#\ItemRentalAssessment\IR_API\IR_API\obj\Debug\IR_API.pdb
+E:\ItemRentalAssessment\IR_API\IR_API\bin\ApplicationInsights.config
+E:\ItemRentalAssessment\IR_API\IR_API\bin\IR_API.dll.config
+E:\ItemRentalAssessment\IR_API\IR_API\bin\IR_API.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\IR_API.pdb
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Antlr3.Runtime.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\EntityFramework.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\EntityFramework.SqlServer.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.DependencyCollector.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.Web.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.WindowsServer.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.ApplicationInsights.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.Web.Infrastructure.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Newtonsoft.Json.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Net.Http.Formatting.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Helpers.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Http.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Http.WebHost.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Mvc.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Optimization.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Razor.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.Deployment.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.Razor.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\WebGrease.dll
+E:\ItemRentalAssessment\IR_API\IR_API\bin\EntityFramework.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\EntityFramework.SqlServer.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Newtonsoft.Json.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Net.Http.Formatting.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Helpers.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Http.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Http.WebHost.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Mvc.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Optimization.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.Razor.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.Deployment.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\System.Web.WebPages.Razor.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Antlr3.Runtime.pdb
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.ApplicationInsights.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.DependencyCollector.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.WindowsServer.xml
+E:\ItemRentalAssessment\IR_API\IR_API\bin\Microsoft.AI.Web.xml
+E:\ItemRentalAssessment\IR_API\IR_API\obj\Debug\IR_API.csprojAssemblyReference.cache
+E:\ItemRentalAssessment\IR_API\IR_API\obj\Debug\IR_API.csproj.CoreCompileInputs.cache
+E:\ItemRentalAssessment\IR_API\IR_API\obj\Debug\IR_API.csproj.CopyComplete
+E:\ItemRentalAssessment\IR_API\IR_API\obj\Debug\IR_API.dll
+E:\ItemRentalAssessment\IR_API\IR_API\obj\Debug\IR_API.pdb
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\ApplicationInsights.config
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\IR_API.dll.config
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\IR_API.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\IR_API.pdb
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Antlr3.Runtime.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\EntityFramework.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\EntityFramework.SqlServer.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.AI.Web.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Newtonsoft.Json.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Net.Http.Formatting.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Helpers.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Http.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Http.WebHost.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Mvc.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Optimization.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Razor.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.WebPages.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\WebGrease.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\EntityFramework.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\EntityFramework.SqlServer.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Newtonsoft.Json.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Net.Http.Formatting.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Helpers.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Http.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Http.WebHost.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Mvc.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Optimization.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.Razor.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.WebPages.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Antlr3.Runtime.pdb
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\bin\Microsoft.AI.Web.xml
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\obj\Debug\IR_API.csprojAssemblyReference.cache
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\obj\Debug\IR_API.csproj.CoreCompileInputs.cache
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\obj\Debug\IR_API.csproj.CopyComplete
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\obj\Debug\IR_API.dll
+C:\Users\Long\OneDrive\Desktop\ItemRentalAssessment - Copy\IR_API\IR_API\obj\Debug\IR_API.pdb

@@ -1,0 +1,48 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    ViewBag.Tittle = "Users Guide";
+}
+
+<h2>Users Guide</h2>
+
+<h3>Basic Navigation</h3>
+<div class=" form-group">
+    <img id="imageSource" src="~/UserGuideImage/pic1.png" style="height:720px;width:1280px" />
+</div>
+
+<h3>Basic function</h3>
+<div class=" form-group">
+    <img id="imageSource" src="~/UserGuideImage/pic2.png" style="height:720px;width:1280px" />
+</div>
+
+<h3>Drag & Drop</h3>
+<div class=" form-group">
+    <img id="imageSource" src="~/UserGuideImage/pic3.png" style="height:720px;width:1280px" />
+</div>
+
+<h3>Export the Data to CSV file</h3>
+<div class=" form-group">
+    <img id="imageSource" src="~/UserGuideImage/pic4.png" style="height:720px;width:1280px" />
+</div>
+
+<h3>Message from the website</h3>
+<div class=" form-group">
+    <img id="imageSource" src="~/UserGuideImage/pic5.png" style="height:720px;width:1280px" />
+</div>
+
+<h4>This button will give you a docx file of Users Guide</h4>
+@using (Html.BeginForm("GetUserGuide", "Home", FormMethod.Get))
+{
+    <button name="button" style="width:128px;height:48px;font-weight:bold" title="Get UsersGuide">
+        Get Users Guide
+    </button>
+
+}
+
+    <p>
+        @Html.ActionLink("Back to Home", "Index")
+    </p>
